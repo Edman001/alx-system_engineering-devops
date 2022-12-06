@@ -1,3 +1,2 @@
 #!/bin/bash
-local BEST=“school”
-local $BEST
+BEST=“School”
